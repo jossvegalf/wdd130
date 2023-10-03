@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Mono:wght@500&display=swap');
 :root {
     --primary-color: #193F58;
     --secondary-color: #FEFEFE;
     --accent1-color: #9F7D57;
     --accent2-color: #71563D;
 
-    --heading-font: "Rock Salt", serif;
-    --paragraph-font: "Roboto:, serif";
+    --heading-font: "Roboto Mono", serif;
+    --paragraph-font: "Open Sans", serif;
 
     --nav-background-color: #193F58;
     --nav-link-color: #FEFEFE;
