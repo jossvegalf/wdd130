@@ -1,24 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 :root {
-    --primary-color:#71563D;
-    --secondary-color: #9F7D57;
-    --accent1-color:;
-    --accent2-color:;
+    --primary-color: #193F58;
+    --secondary-color: #FEFEFE;
+    --accent1-color: #9F7D57;
+    --accent2-color: #71563D;
 
-    --heading-font:;
-    --paragraph-font:;
+    --heading-font: "Rock Salt", serif;
+    --paragraph-font: "Roboto:, serif";
 
-    --nav-background-color:;
-    --nav-link-color:;
-    --nav-hover-link-color:;
-    --nav-hover-background-color:;
+    --nav-background-color: #193F58;
+    --nav-link-color: #FEFEFE;
+    --nav-hover-link-color: #9F7D57;
+    --nav-hover-background-color: #71563D;
 }
 
 body {
-    f___: var(--paragraph-font);
-    m___: ____;
-    p___: ____;
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
