@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300&family=Titan+One&display=swap');
 :root {
-    --primary-color: #193F58;
-    --secondary-color: #FEFEFE;
-    --accent1-color: #9F7D57;
-    --accent2-color: #71563D;
-
-    --heading-font: 'Titan One', cursive;
-    --paragraph-font: 'Geologica', sans-serif;
-
-    --nav-background-color: #193F58;
-    --nav-link-color: #FEFEFE;
-    --nav-hover-link-color: #9F7D57;
-    --nav-hover-background-color: #71563D;
-}
+    --primary-color: #272932;
+    --secondary-color: #828489;
+    --accent1-color: #4d7ea8;
+    --accent2-color: #9E90A2;
+  
+    --heading-font: 'Rock Salt', serif;
+    --paragraph-font: 'Roboto', serif;
+  
+    --nav-background-color: #272932;
+    --nav-link-color: #828489;
+    --nav-hover-link-color: #4D7EA8;
+    --nav-hover-background-color: #9E90A2;
+    ;
+  }
 
 body {
     font-family: var(--paragraph-font);
