@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz@1,8..144&family=Rock+Salt&display=swap');
+
 :root {
   --primary-color: #003459;
   --secondary-color: #00171F;
@@ -203,7 +204,7 @@ figcaption {
   font-weight: bold;
 }
 
-/*CONTACT US PAGE*/
+/*CONTACT US*/
 .contactContent {
   display: grid;
   grid-template-columns: 1fr 50%;
@@ -237,9 +238,7 @@ select {
 .radio-group {
   display: block;
   gap: 5px;
-  align-items: left;
 }
-
 
 .radio-group input[type="radio"] {
   margin: 0;
@@ -287,6 +286,9 @@ footer {
 footer p {
   flex: 1;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 p{
