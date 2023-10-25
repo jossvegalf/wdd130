@@ -375,6 +375,14 @@ button:hover {
   background-color: #005b95;
 }
 
+.hero .cta-link {
+  color: #003459; 
+}
+
+.hero .cta-link:hover {
+  color: #00A7E1; 
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr; 
