@@ -468,3 +468,10 @@ button:hover {
   display: block;
   margin-top: 10px; 
 }
+
+.hero {
+  background-image: url("images/fullimage.jpg");
+  background-size: cover; 
+  background-position: center; 
+  height: 100vh; 
+}
